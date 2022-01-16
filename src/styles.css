@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 1px;
+  background-color: #eeeaf8;
+}
+
+.container {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.loading {
+  text-align: center;
+}
+
+.errorMsg {
+  color: #ff0000;
+}
+
+.action-btn {
+  margin: 1rem;
+  letter-spacing: 1px;
+}
+
+.list {
+  list-style: none;
+  text-align: left;
+}
+
+.list-item {
+  border-bottom: 1px solid #797878;
+  background-color: #ffffff;
+  padding: 1rem;
+}
