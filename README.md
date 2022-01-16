@@ -1,3 +1,3 @@
-## Serverless Redis as database
+## Serverless Redis as cache store
 
 ![redis-image](./redis.png)
